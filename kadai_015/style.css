@@ -23,9 +23,7 @@ h1 {
     font-size: 2rem;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px gray;
-    text-decoration: underline;
-    text-decoration-color: rgb(115, 115, 114);
-    text-decoration-thickness: 3px;
+    border-bottom: 3px solid rgb(115, 115, 114);
 }
 
 #basic .text-bold {
